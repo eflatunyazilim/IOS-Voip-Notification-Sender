@@ -16,3 +16,6 @@ There are 2 different Apns address.
 **Production server:** api.push.apple.com:443
 
 If you installed the app from appstore, You should use prod. Otherwise you should use deployment server.
+
+More Information:
+[Sending Notification Requests to APNs](https://developer.apple.com/documentation/usernotifications/setting_up_a_remote_notification_server/sending_notification_requests_to_apns)
