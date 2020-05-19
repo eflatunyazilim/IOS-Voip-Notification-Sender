@@ -1,0 +1,20 @@
+H:\DESKTOP_APPS\IOS Voip Notification Sender\IOS Voip Notification Sender\IOS Voip Notification Sender\bin\Debug\IOS Voip Notification Sender.exe.config
+H:\DESKTOP_APPS\IOS Voip Notification Sender\IOS Voip Notification Sender\IOS Voip Notification Sender\bin\Debug\IOS Voip Notification Sender.exe
+H:\DESKTOP_APPS\IOS Voip Notification Sender\IOS Voip Notification Sender\IOS Voip Notification Sender\bin\Debug\IOS Voip Notification Sender.pdb
+H:\DESKTOP_APPS\IOS Voip Notification Sender\IOS Voip Notification Sender\IOS Voip Notification Sender\bin\Debug\Newtonsoft.Json.dll
+H:\DESKTOP_APPS\IOS Voip Notification Sender\IOS Voip Notification Sender\IOS Voip Notification Sender\bin\Debug\PushSharp.Amazon.dll
+H:\DESKTOP_APPS\IOS Voip Notification Sender\IOS Voip Notification Sender\IOS Voip Notification Sender\bin\Debug\PushSharp.Apple.dll
+H:\DESKTOP_APPS\IOS Voip Notification Sender\IOS Voip Notification Sender\IOS Voip Notification Sender\bin\Debug\PushSharp.Blackberry.dll
+H:\DESKTOP_APPS\IOS Voip Notification Sender\IOS Voip Notification Sender\IOS Voip Notification Sender\bin\Debug\PushSharp.Core.dll
+H:\DESKTOP_APPS\IOS Voip Notification Sender\IOS Voip Notification Sender\IOS Voip Notification Sender\bin\Debug\PushSharp.Firefox.dll
+H:\DESKTOP_APPS\IOS Voip Notification Sender\IOS Voip Notification Sender\IOS Voip Notification Sender\bin\Debug\PushSharp.Google.dll
+H:\DESKTOP_APPS\IOS Voip Notification Sender\IOS Voip Notification Sender\IOS Voip Notification Sender\bin\Debug\PushSharp.Windows.dll
+H:\DESKTOP_APPS\IOS Voip Notification Sender\IOS Voip Notification Sender\IOS Voip Notification Sender\bin\Debug\Newtonsoft.Json.xml
+H:\DESKTOP_APPS\IOS Voip Notification Sender\IOS Voip Notification Sender\IOS Voip Notification Sender\obj\Debug\IOS Voip Notification Sender.csprojAssemblyReference.cache
+H:\DESKTOP_APPS\IOS Voip Notification Sender\IOS Voip Notification Sender\IOS Voip Notification Sender\obj\Debug\IOS_Voip_Notification_Sender.Form1.resources
+H:\DESKTOP_APPS\IOS Voip Notification Sender\IOS Voip Notification Sender\IOS Voip Notification Sender\obj\Debug\IOS_Voip_Notification_Sender.Properties.Resources.resources
+H:\DESKTOP_APPS\IOS Voip Notification Sender\IOS Voip Notification Sender\IOS Voip Notification Sender\obj\Debug\IOS Voip Notification Sender.csproj.GenerateResource.cache
+H:\DESKTOP_APPS\IOS Voip Notification Sender\IOS Voip Notification Sender\IOS Voip Notification Sender\obj\Debug\IOS Voip Notification Sender.csproj.CoreCompileInputs.cache
+H:\DESKTOP_APPS\IOS Voip Notification Sender\IOS Voip Notification Sender\IOS Voip Notification Sender\obj\Debug\IOS Voip Notification Sender.csproj.CopyComplete
+H:\DESKTOP_APPS\IOS Voip Notification Sender\IOS Voip Notification Sender\IOS Voip Notification Sender\obj\Debug\IOS Voip Notification Sender.exe
+H:\DESKTOP_APPS\IOS Voip Notification Sender\IOS Voip Notification Sender\IOS Voip Notification Sender\obj\Debug\IOS Voip Notification Sender.pdb
